@@ -16,12 +16,12 @@ Repo: https://github.com/UESTC-IA/.github
 [![UESTC](https://img.shields.io/badge/UESTC-Official_Student_Org-green)]()
 
 </div>
-
+s
 ---
 
 ### 🌍 语言 | Language
-- [中文](#中文)  
-- [English](#english)
+- [中文](https://github.com/UESTC-IA/.github/profile/readme.md)  
+- [English](https://github.com/UESTC-IA/.githubprofile/readme_en.md)
 
 ---
 
