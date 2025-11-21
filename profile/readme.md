@@ -12,7 +12,7 @@ Repo: https://github.com/UESTC-IA/.github
 ### Interdisciplinary Association of University of Electronic Science and Technology of China
 
 [![License](https://img.shields.io/badge/License-Academic%20Use-blue)](https://github.com/UESTC-IA/.github/blob/main/LICENSE)
-[![Website](https://img.shields.io/badge/Website-Comming_Soon-lightgrey)]()
+[![Website](https://img.shields.io/badge/uestc-ia.github.io-red)]()
 [![UESTC](https://img.shields.io/badge/UESTC-Official_Student_Org-green)]()
 
 </div>
@@ -26,6 +26,8 @@ Repo: https://github.com/UESTC-IA/.github
 ---
 
 ### 关于我们
+
+🌐 **在[官方网站](https://uestc-ia.github.io)上了解我们的完整介绍、项目详情和最新活动**
 
 **电子科技大学交叉学科协会**（Interdisciplinary Association, IA）是一个致力于推动**人工智能与多学科深度融合**的学术科技类学生社团。我们以“打破学科壁垒，融合前沿知识”为核心理念，搭建连接 AI 人才、领域科学家与工程团队的创新生态。
 
@@ -53,7 +55,7 @@ Repo: https://github.com/UESTC-IA/.github
 关注我们的 [微信公众号 **TechPulse（科技脉搏）**](https://example.com) 或 QQ 频道获取招新信息。
 
 > 📌 社团章程、组织架构与五年发展规划详见 [Wiki](https://github.com/UESTC-IA/.github/wiki)（建设中）。
-
+官方网站
 </details>
 
 ---
