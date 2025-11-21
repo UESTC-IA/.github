@@ -12,7 +12,7 @@ Repo: https://github.com/UESTC-IA/.github
 ### Interdisciplinary Association of University of Electronic Science and Technology of China
 
 [![License](https://img.shields.io/badge/License-Academic%20Use-blue)](https://github.com/UESTC-IA/.github/blob/main/LICENSE)
-[![Website](https://img.shields.io/badge/uestc-ia.github.io-red)]()
+[![Website](https://img.shields.io/badge/🌐Website-uestc--ia.github.io-red)](https://uestc-ia.github.io)
 [![UESTC](https://img.shields.io/badge/UESTC-Official_Student_Org-green)]()
 
 </div>
