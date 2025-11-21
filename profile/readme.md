@@ -20,8 +20,8 @@ Repo: https://github.com/UESTC-IA/.github
 ---
 
 ### 🌍 语言 | Language
-- [中文](https://github.com/UESTC-IA/blob/main/.github/profile/readme.md)  
-- [English](https://github.com/UESTC-IA/blob/main/.githubprofile/readme_en.md)
+- [中文](https://github.com/UESTC-IA/.github/blob/main/profile/readme.md)  
+- [English](https://github.com/UESTC-IA/.github/blob/main/profile/readme_en.md)
 
 ---
 
