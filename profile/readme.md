@@ -55,44 +55,6 @@ Repo: https://github.com/UESTC-IA/.github
 关注我们的 [微信公众号 **TechPulse（科技脉搏）**](https://example.com) 或 QQ 频道获取招新信息。
 
 > 📌 社团章程、组织架构与五年发展规划详见 [Wiki](https://github.com/UESTC-IA/.github/wiki)（建设中）。
-官方网站
-</details>
-
----
-
-<a name="english"></a>
-<details>
-<summary><h2>🇬🇧 English</h2></summary>
-
-### About Us
-
-The **Interdisciplinary Association (IA)** at the University of Electronic Science and Technology of China (UESTC) is an **academic and technology-oriented student organization** dedicated to fostering deep integration between **Artificial Intelligence and multiple disciplines**. Guided by the principle of *"Breaking Disciplinary Barriers, Integrating Frontier Knowledge,"* we aim to build an innovation ecosystem that connects AI talents, domain scientists, and engineering teams.
-
-#### 🎯 Core Tracks
-- **Science**: AI for Science (e.g., protein structure prediction, new material discovery)  
-- **Health**: AI in healthcare, medical imaging, wearable devices  
-- **Engineering**: Embodied AI, chip design, communication systems  
-- **Finance**: FinTech, quantitative analysis, intelligent risk control  
-- **AI Methods**: Foundational and applied training in ML/DL/data science
-
-#### 🚀 Our Mission
-- Establish UESTC’s first “AI+X” interdisciplinary practice platform  
-- Bridge top-tier companies (e.g., DP Technology), research institutes, and on-campus labs  
-- Cultivate interdisciplinary innovators through project-based learning, competitions, workshops, and industry visits  
-- Solve real-world challenges and accelerate research-to-application translation
-
-#### 📅 Signature Events
-- **“AI × Future” Interdisciplinary Innovation Challenge** (University-wide)  
-- **AI Methods Hands-on Workshops** (bi-weekly)  
-- **Professor Tea Time & Roundtable Forums**  
-- **Annual Demo Day & Summer Research Internship Program**
-
-#### 👥 Join Us
-Open to all UESTC undergraduates and postgraduates.  
-Follow our official WeChat public account **“TechPulse”** or QQ Channel for recruitment updates.
-
-> 📌 See our [Wiki](https://github.com/UESTC-IA/.github/wiki) (under construction) for Charter, Org Chart, and 5-Year Strategic Plan.
-
 </details>
 
 ---
@@ -101,10 +63,9 @@ Follow our official WeChat public account **“TechPulse”** or QQ Channel for 
 
 📬 **Contact**: ia@uestc.edu.cn (拟用)  
 📍 **Affiliation**: School of Life Science and Technology, UESTC  
-🔗 **Repository**: [github.com/UESTC-IA](https://github.com/UESTC-IA)
+🔗 **Repository**: [github.com/UESTC-IA](https://github.com/UESTC-IA)  
+✨ **Official Website**: [https://uestc-ia.github.io](https://uestc-ia.github.io) ← **Your Gateway to IA Community**
 
 <br>
-
-[↑ 回到顶部 | Back to Top](#top)
-
 </div>
+
