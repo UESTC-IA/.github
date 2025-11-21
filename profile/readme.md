@@ -25,10 +25,6 @@ Repo: https://github.com/UESTC-IA/.github
 
 ---
 
-<a name="中文"></a>
-<details open>
-<summary><h2>🇨🇳 中文</h2></summary>
-
 ### 关于我们
 
 **电子科技大学交叉学科协会**（Interdisciplinary Association, IA）是一个致力于推动**人工智能与多学科深度融合**的学术科技类学生社团。我们以“打破学科壁垒，融合前沿知识”为核心理念，搭建连接 AI 人才、领域科学家与工程团队的创新生态。
