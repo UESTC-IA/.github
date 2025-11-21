@@ -29,8 +29,6 @@ Repo: https://github.com/UESTC-IA/.github
 
 🌐 **Explore our full story, projects, and events on our [Official Website](https://uestc-ia.github.io)**
 
-The **Interdisciplinary Association (IA)** at the University of Electronic Science and Technology of China (UESTC) is an **academic and technology-oriented student organization** dedicated to fostering deep integration between **Artificial Intelligence and multiple disciplines**.
-
 The **Interdisciplinary Association (IA)** at the University of Electronic Science and Technology of China (UESTC) is an **academic and technology-oriented student organization** dedicated to fostering deep integration between **Artificial Intelligence and multiple disciplines**. Guided by the principle of *"Breaking Disciplinary Barriers, Integrating Frontier Knowledge,"* we aim to build an innovation ecosystem that connects AI talents, domain scientists, and engineering teams.
 
 #### 🎯 Core Tracks
