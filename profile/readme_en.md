@@ -52,7 +52,7 @@ The **Interdisciplinary Association (IA)** at the University of Electronic Scien
 
 #### 👥 Join Us
 Open to all UESTC undergraduates and postgraduates.  
-Follow our official WeChat public account **“TechPulse”** or QQ Channel for recruitment updates.
+Follow our official QQ Channel [**“TechPulse”**](https://pd.qq.com/g/4rbt3vq7er) or website for recruitment updates.
 
 > 📌 See our [Wiki](https://github.com/UESTC-IA/.github/wiki) (under construction) for Charter, Org Chart, and 5-Year Strategic Plan.
 
@@ -62,7 +62,7 @@ Follow our official WeChat public account **“TechPulse”** or QQ Channel for 
 
 <div align="center">
 
-📬 **Contact**: ia@uestc.edu.cn (拟用)  
+📬 **Contact**: zhixuduan@std.uestc.edu.cn (拟用)  
 📍 **Affiliation**: School of Life Science and Technology, UESTC  
 🔗 **Repository**: [github.com/UESTC-IA](https://github.com/UESTC-IA)  
 ✨ **Official Website**: [https://uestc-ia.github.io](https://uestc-ia.github.io) ← **Your Gateway to IA Community**
