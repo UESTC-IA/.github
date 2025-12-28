@@ -52,7 +52,7 @@ Repo: https://github.com/UESTC-IA/.github
 
 #### 👥 加入我们
 面向电子科技大学全体本科生与研究生开放。  
-关注我们的 [微信公众号 **TechPulse（科技脉搏）**](https://example.com) 或 QQ 频道获取招新信息。
+关注我们的 [QQ频道 **TechPulse（科技脉搏）**](https://pd.qq.com/g/4rbt3vq7er) 或官网获取招新信息。
 
 > 📌 社团章程、组织架构与五年发展规划详见 [Wiki](https://github.com/UESTC-IA/.github/wiki)（建设中）。
 </details>
@@ -61,7 +61,7 @@ Repo: https://github.com/UESTC-IA/.github
 
 <div align="center">
 
-📬 **Contact**: ia@uestc.edu.cn (拟用)  
+📬 **Contact**: zhixuduan@std.uestc.edu.cn (拟用)  
 📍 **Affiliation**: School of Life Science and Technology, UESTC  
 🔗 **Repository**: [github.com/UESTC-IA](https://github.com/UESTC-IA)  
 ✨ **Official Website**: [https://uestc-ia.github.io](https://uestc-ia.github.io) ← **Your Gateway to IA Community**
